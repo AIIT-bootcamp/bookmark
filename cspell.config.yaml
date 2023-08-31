@@ -1,0 +1,9 @@
+version: "0.2"
+lang: "en"
+ignorePaths: ['package.json', 'pnpm-lock.yaml', '.gitignore']
+dictionaryDefinitions: []
+dictionaries: []
+words: ["bootcamp", "vitepress", "Frontmatter"]
+ignoreWords: ["antfu", "Shiki"]
+import: []
+# NOTE: https://cspell.org/configuration/?source=post_page-----8ba4d497b6a8--------------------------------#cspelljson-sections

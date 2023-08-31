@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "cspell": "^7.2.0",
+    "git-cz": "^4.9.0",
+    "husky": "^8.0.3",
+    "vitepress": "1.0.0-rc.10"
+  },
+  "engines": {
+    "npm": "please_use_pnpm_instead_or_ni",
+    "yarn": "please_use_pnpm_instead_or_ni"
+  },
+  "volta": {
+    "node": "20.5.1"
+  }
+}
