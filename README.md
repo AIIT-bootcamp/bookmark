@@ -10,9 +10,17 @@
 
 ## dev
 
-commit
-- `$ git cz`
+git commit
+- `$ git cz` を使ってください
 
+開発モード
+- `$ nr docs:dev`
+
+ビルド
+- `$ nr docs:build`
+
+プレビュー
+- `$ nr docs:preview`
 
 ## reference
 
