@@ -1,9 +1,11 @@
 version: "0.2"
-lang: "en"
+language: "en"
 ignorePaths: ['package.json', 'pnpm-lock.yaml', '.gitignore']
+ignoreRegExpList: ["[０-９Ａ-Ｚａ-ｚぁ-んァ-ヶ亜-熙纊-黑]+"]
+userWords: ["submenu","titlebar"]
 dictionaryDefinitions: []
 dictionaries: []
-words: ["bootcamp", "vitepress", "Frontmatter"]
+words: ["bootcamp", "vitepress", "Frontmatter", "aiit", "Jabelic", "evenodd"]
 ignoreWords: ["antfu", "Shiki"]
 import: []
 # NOTE: https://cspell.org/configuration/?source=post_page-----8ba4d497b6a8--------------------------------#cspelljson-sections
