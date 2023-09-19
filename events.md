@@ -4,19 +4,39 @@
 
 まずは合宿参加メンバーの自己紹介をしていただきます。一人 最大 5 分、自分の紹介を含んでいればテーマ自由。アイスブレイクも兼ねております。
 
+scrapbox: https://scrapbox.io/pbl-bootcamp/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8BLT
+
 ## No.2 技術紹介 LT
 
 技術紹介をしたい人のために時間をとっています。好きな技術の布教をしましょう :smile:
 
+レギュレーション
+- 好きな技術について話す
+- 1枠5分
+
+scrapbox: https://scrapbox.io/pbl-bootcamp/%E6%8A%80%E8%A1%93%E7%B4%B9%E4%BB%8BLT
+
 ## No.3 アイスブレイク
 
-**地獄のデイリースクラム**
+**地獄のデイリースクラム** を行います! ノリが大事なゲームとなっています。楽しんでいきましょう :smile:
 
-## No.4 モブプロ形式ハッカソン
 
-メインディッシュ。モブプロ形式のハッカソンを行います。
+### チーム分け
 
-#### チーム
+|     | member |
+| --- | ------ |
+| 1   |        |
+| 2   |        |
+
+scrapbox: https://scrapbox.io/pbl-bootcamp/%E5%9C%B0%E7%8D%84%E3%81%AE%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0
+
+## No.4 ハッカソン
+
+メインディッシュ。ハッカソンを行います。モブプロ形式を推奨します。
+
+合宿でやりたかったことをできるだけ叶えてください! 
+
+### チーム
 
 |     | member |
 | --- | ------ |
@@ -25,86 +45,5 @@
 | 3   |        |
 | 4   |        |
 
-<!-- This page demonstrates some of the built-in markdown extensions provided by VitePress.
 
-## Syntax Highlighting
-
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-
-**Input**
-
-````
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown). -->
+scrapbox: https://scrapbox.io/pbl-bootcamp/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3

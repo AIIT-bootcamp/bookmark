@@ -31,9 +31,13 @@ PBL 合同開発合宿 2023 夏 @土善旅館
 
 |             |                           |
 | ----------- | ------------------------- |
-| 宿代        | 12,210 円(多少の変動あり) |
-| 新宿 - 笹川 | 1,980 円                  |
+| 宿代         | 12,210 円(多少の変動あり) |
+| 新宿 - 笹川   | 1,980 円                  |
 |             |                           |
+
+:::warning お願い
+宿代は現金でのご用意をお願いします。
+:::
 
 ### 情報の置き場
 
@@ -54,7 +58,7 @@ PBL 合同開発合宿 2023 夏 @土善旅館
 
 | 時間        | 予定                                                                        |
 | ----------- | --------------------------------------------------------------------------- |
-| 12:00       | 集合                                                                        |
+| 12:00       | 笹川駅集合                                                                    |
 |             | ご飯でも https://tabelog.com/chiba/C12349/rstLst/?SrtT=rt&Srt=D&sort_mode=1 |
 | 13:00       | チェックイン(理想)                                                          |
 | 13:00-13:40 | 自己紹介 LT(1 人 3 分くらいで 40 分)                                        |
@@ -77,98 +81,3 @@ PBL 合同開発合宿 2023 夏 @土善旅館
 | 12:00       | 成果発表・閉会 |
 | 14:00       | チェックアウト |
 
-<!-- ## 企画
-
-### No.1 自己紹介LT
-coming soon...
-
-### No.2 技術紹介LT
-coming soon...
-
-### No.3 アイスブレイク(内容は秘密)
-coming soon...
-
-### No.4 モブプロ形式ハッカソン
-coming soon... -->
-
-<!-- ## Syntax Highlighting
-
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-
-**Input**
-
-````
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown). -->

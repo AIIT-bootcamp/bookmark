@@ -5,7 +5,7 @@ ignoreRegExpList: ["[０-９Ａ-Ｚａ-ｚぁ-んァ-ヶ亜-熙纊-黑]+"]
 userWords: ["submenu","titlebar"]
 dictionaryDefinitions: []
 dictionaries: []
-words: ["bootcamp", "vitepress", "Frontmatter", "aiit", "Jabelic", "evenodd"]
+words: ["bootcamp", "vitepress", "Frontmatter", "aiit", "Jabelic", "evenodd", "scrapbox"]
 ignoreWords: ["antfu", "Shiki"]
 import: []
 # NOTE: https://cspell.org/configuration/?source=post_page-----8ba4d497b6a8--------------------------------#cspelljson-sections
