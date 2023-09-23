@@ -45,6 +45,8 @@ PBL 合同開発合宿 2023 夏 @土善旅館
 
 [Google Drive](https://drive.google.com/drive/folders/1b_oBRep1QGlTtY42sNV7lJxBX-i4824c?usp=drive_link)
 
+[Scrapbox](https://scrapbox.io/aiit-bootcamp23summer/)
+
 ### 注意事項
 
 - キャンセルは 4 日前(2023/9/26)までに運営にご連絡ください。
